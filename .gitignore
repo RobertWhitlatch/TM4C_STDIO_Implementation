@@ -1,0 +1,91 @@
+# Keil
+*.crf
+*.bak
+*.htm
+*.axf
+*.dep
+*.lnp
+*.lst
+*.iex
+
+*.uvgui.*
+
+# Prerequisites
+*.d
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+*.axf
+*.bin
+
+# Linker output
+*.ilk
+*.map
+*.exp
+*.i
+*._i2
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
+ValvanoWareTM4C123
+
+# Xcode
+*.xcodeproj
+
+# macOS nonsense
+.DS_Store
+._*
+
+# Temporary files
+*.swp
+*~
+
+# Compiler output directories
+gcc/
+rvmdk/
+doc/
+build/
+
+# Documentation
+*.3
+*.ps
+*.log
+
